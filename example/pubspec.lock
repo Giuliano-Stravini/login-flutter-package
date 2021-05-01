@@ -71,8 +71,8 @@ packages:
     dependency: "direct main"
     description:
       path: "."
-      ref: HEAD
-      resolved-ref: bacfcc60b42abb38e4e79eaaae223322d0a9d564
+      ref: master
+      resolved-ref: "7837845d7367c22f0d1bf7c1a395b82baae10d05"
       url: "https://github.com/Giuliano-Stravini/login-flutter-package"
     source: git
     version: "0.0.1"
